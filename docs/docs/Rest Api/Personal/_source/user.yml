@@ -1,0 +1,107 @@
+openapi: 3.0.3
+info:
+  title: ZTNet User Rest API
+  version: 1.0.0
+  description: |
+      Access the ZTNet suite through our RESTful Web API.
+
+      This interface is subject to a rate limit of 50 requests per minute to ensure service reliability.
+
+servers:
+  - url: https://ztnet.network/api/v1
+    description: ZTNet API
+tags:
+  - name: user
+    description: Users API
+    x-displayName: Users API
+        
+components:
+  securitySchemes:
+    x-ztnet-auth:
+      type: apiKey
+      in: header
+      name: x-ztnet-auth
+      description: API key required for access
+
+security:
+  - x-ztnet-auth: []
+paths:
+  /user:
+    post:
+      tags:
+        - user
+      summary: Create a new user
+      operationId: postNewUser
+      description: |
+        If no users have been created yet, no API key is required. Otherwise, an API key must be included in the request header.
+        Keep in mind that first user created will be the admin user.
+      requestBody:
+        # required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - email
+                - password
+                - name
+              properties:
+                email:
+                  type: string
+                password:
+                  type: string
+                name:
+                  type: string
+                expiresAt:
+                  type: string
+                  nullable: true
+                  description: |
+                    The date and time at which the user's account will expire. If null, the account will never expire.
+                    Must be in ISO 8601 format (e.g. 2023-11-03T00:00:00.000Z).
+
+                    Not applicable if the user is an admin (first user). Admin accounts never expire.
+                generateApiToken:
+                  type: boolean
+                  nullable: true
+                  description: |
+                    If set to true, the response will include an API token with a 24-hour validity period, applicable for both Personal and Organization API access.
+
+            example:
+              email: "post@ztnet.network"
+              password: "strong_password"
+              name: "Ztnet User"
+              expiresAt: "2023-11-03T00:00:00.000Z"
+              generateApiToken: true
+
+      responses:
+        200:
+          description: User successfully created
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: string
+                  email:
+                    type: string
+                  name:
+                    type: string
+                  expiresAt:
+                    type: string
+                  apiToken:
+                    type: string
+                example:
+                  id: "abcd1234"
+                  email: "johndoe@ztnet.network"
+                  name: "John Doe"
+                  expiresAt: "2023-10-28T00:00:00Z"
+                  apiToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9ihuihfds78tewgyre67dtfeswr7gyu3q8gfrv78ewrtgf8wrb98SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+
+        401:
+          $ref: '../../_http_responses/Unauthorized.yml#/Unauthorized'
+        429:
+          $ref: '../../_http_responses/RateLimitExceeded.yml#/RateLimitExceeded'
+        500:
+          $ref: '../../_http_responses/InternalServerError.yml#/InternalServerError'
+

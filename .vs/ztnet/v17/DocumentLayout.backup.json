@@ -1,0 +1,1312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sid27\\source\\repos\\ztnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\locales\\en\\common.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\locales\\en\\common.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\user-settings\\account\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\user-settings\\account\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\server\\api\\routers\\adminRoute.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\server\\api\\routers\\adminRoute.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\public\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\sidebar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\layouts\\sidebar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\404.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\404.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\_document.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\_document.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\_app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\_app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\locale-redirect.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\locale-redirect.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid].tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\organization\\[orgid].tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\[id].tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\organization\\[orgid]\\[id].tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\organization\\[orgid]\\admin\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\settings\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\organization\\[orgid]\\admin\\settings\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\notification\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\organization\\[orgid]\\admin\\notification\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\network\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\organization\\[orgid]\\admin\\network\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\invite\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\organization\\[orgid]\\admin\\invite\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\network\\[id].tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\network\\[id].tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\network\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\network\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\verifyEmail\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\auth\\verifyEmail\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\backuprestore\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\backuprestore\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\controller\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\controller\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\mail\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\mail\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\notification\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\notification\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\organization\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\organization\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\settings\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\settings\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\users\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\users\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\forgotPassword\\reset\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\auth\\forgotPassword\\reset\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\forgotPassword\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\auth\\forgotPassword\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\login\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\auth\\login\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\register\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\auth\\register\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\password-change-required\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\auth\\password-change-required\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\mfaRecovery\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\auth\\mfaRecovery\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\mfaRecovery\\reset\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\auth\\mfaRecovery\\reset\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\networkMembers\\updateMember.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\__tests__\\v1\\networkMembers\\updateMember.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\network\\networkById.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\__tests__\\v1\\network\\networkById.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\network\\network.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\__tests__\\v1\\network\\network.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\application\\statistic.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\__tests__\\v1\\application\\statistic.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\auth\\two-factor\\setup.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\__tests__\\auth\\two-factor\\setup.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\auth\\two-factor\\enable.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\__tests__\\auth\\two-factor\\enable.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\websocket\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\websocket\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\dashboard\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\dashboard\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\central\\[id].tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\central\\[id].tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\central\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\central\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\stats\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\v1\\stats\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\org\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\v1\\org\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\network\\_schema.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\v1\\network\\_schema.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\network\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\v1\\network\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\two-factor\\totp\\setup.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\auth\\two-factor\\totp\\setup.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\trpc\\[trpc].ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\trpc\\[trpc].ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\mkworld\\config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\mkworld\\config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\[...nextauth].ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\auth\\[...nextauth].ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\two-factor\\totp\\enable.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\auth\\two-factor\\totp\\enable.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\two-factor\\totp\\disable.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\api\\auth\\two-factor\\totp\\disable.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\logFooter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\layouts\\logFooter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailNotificationTemplate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\adminPage\\mail\\mailNotificationTemplate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailUserInviteTemplate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\adminPage\\mail\\mailUserInviteTemplate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\layouts\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\layouts\\header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\layouts\\footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\chatAside.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\layouts\\chatAside.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailForgotPasswordTemplate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\adminPage\\mail\\mailForgotPasswordTemplate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailDeviceIpChangeNotificationTemplate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\adminPage\\mail\\mailDeviceIpChangeNotificationTemplate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\controller\\rootForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\adminPage\\controller\\rootForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\controller\\debugController.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\adminPage\\controller\\debugController.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\controller\\createPlanet.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\adminPage\\controller\\createPlanet.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\oauthLogin.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\auth\\oauthLogin.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\mfaRecoveryForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\auth\\mfaRecoveryForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\formSubmitButton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\auth\\formSubmitButton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\formInput.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\auth\\formInput.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\forgotPasswordForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\auth\\forgotPasswordForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\credentialsForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\auth\\credentialsForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\userSettings\\apiToken.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\userSettings\\apiToken.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\.devcontainer\\setup-ssh.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.devcontainer\\setup-ssh.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\prisma\\seed.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prisma\\seed.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sid27\\source\\repos\\ztnet\\tailwind.config.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tailwind.config.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\user-settings\\account\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\user-settings\\account\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\user-settings\\account\\index.tsx",
+              "RelativeToolTip": "src\\pages\\user-settings\\account\\index.tsx",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T10:13:45.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "common.json",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\locales\\en\\common.json",
+              "RelativeDocumentMoniker": "src\\locales\\en\\common.json",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\locales\\en\\common.json",
+              "RelativeToolTip": "src\\locales\\en\\common.json",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAIQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T09:49:04.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\public\\manifest.json",
+              "RelativeDocumentMoniker": "public\\manifest.json",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\public\\manifest.json",
+              "RelativeToolTip": "public\\manifest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T09:47:31.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adminRoute.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\server\\api\\routers\\adminRoute.ts",
+              "RelativeDocumentMoniker": "src\\server\\api\\routers\\adminRoute.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\server\\api\\routers\\adminRoute.ts",
+              "RelativeToolTip": "src\\server\\api\\routers\\adminRoute.ts",
+              "ViewState": "AgIAAHsFAAAAAAAAAAAswMgGAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T08:08:40.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "404.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\404.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\404.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\404.tsx",
+              "RelativeToolTip": "src\\pages\\404.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T08:07:49.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_document.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\_document.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\_document.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\_document.tsx",
+              "RelativeToolTip": "src\\pages\\_document.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T08:07:26.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_app.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\_app.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\_app.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\_app.tsx",
+              "RelativeToolTip": "src\\pages\\_app.tsx",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T08:06:47.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "locale-redirect.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\locale-redirect.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\locale-redirect.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\locale-redirect.tsx",
+              "RelativeToolTip": "src\\pages\\locale-redirect.tsx",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T08:06:10.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "[orgid].tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid].tsx",
+              "RelativeDocumentMoniker": "src\\pages\\organization\\[orgid].tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid].tsx",
+              "RelativeToolTip": "src\\pages\\organization\\[orgid].tsx",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T08:05:19.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "[id].tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\[id].tsx",
+              "RelativeDocumentMoniker": "src\\pages\\organization\\[orgid]\\[id].tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\[id].tsx",
+              "RelativeToolTip": "src\\pages\\organization\\[orgid]\\[id].tsx",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T08:04:05.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\organization\\[orgid]\\admin\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\index.tsx",
+              "RelativeToolTip": "src\\pages\\organization\\[orgid]\\admin\\index.tsx",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T08:00:59.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sidebar.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\sidebar.tsx",
+              "RelativeDocumentMoniker": "src\\components\\layouts\\sidebar.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\sidebar.tsx",
+              "RelativeToolTip": "src\\components\\layouts\\sidebar.tsx",
+              "ViewState": "AgIAAHABAAAAAAAAAAAvwIMBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:16:47.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\settings\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\organization\\[orgid]\\admin\\settings\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\settings\\index.tsx",
+              "RelativeToolTip": "src\\pages\\organization\\[orgid]\\admin\\settings\\index.tsx",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:50:51.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\notification\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\organization\\[orgid]\\admin\\notification\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\notification\\index.tsx",
+              "RelativeToolTip": "src\\pages\\organization\\[orgid]\\admin\\notification\\index.tsx",
+              "ViewState": "AgIAAKcBAAAAAAAAAAAAAHQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:48:53.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\network\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\organization\\[orgid]\\admin\\network\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\network\\index.tsx",
+              "RelativeToolTip": "src\\pages\\organization\\[orgid]\\admin\\network\\index.tsx",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:47:09.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\invite\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\organization\\[orgid]\\admin\\invite\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\organization\\[orgid]\\admin\\invite\\index.tsx",
+              "RelativeToolTip": "src\\pages\\organization\\[orgid]\\admin\\invite\\index.tsx",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:46:14.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "[id].tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\network\\[id].tsx",
+              "RelativeDocumentMoniker": "src\\pages\\network\\[id].tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\network\\[id].tsx",
+              "RelativeToolTip": "src\\pages\\network\\[id].tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:43:30.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\network\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\network\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\network\\index.tsx",
+              "RelativeToolTip": "src\\pages\\network\\index.tsx",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:43:02.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\verifyEmail\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\auth\\verifyEmail\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\verifyEmail\\index.tsx",
+              "RelativeToolTip": "src\\pages\\auth\\verifyEmail\\index.tsx",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:42:37.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\backuprestore\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\admin\\backuprestore\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\backuprestore\\index.tsx",
+              "RelativeToolTip": "src\\pages\\admin\\backuprestore\\index.tsx",
+              "ViewState": "AgIAAGQCAAAAAAAAAAAAAAoBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:40:07.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\users\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\admin\\users\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\users\\index.tsx",
+              "RelativeToolTip": "src\\pages\\admin\\users\\index.tsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:36:54.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\register\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\auth\\register\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\register\\index.tsx",
+              "RelativeToolTip": "src\\pages\\auth\\register\\index.tsx",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:33:34.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\password-change-required\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\auth\\password-change-required\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\password-change-required\\index.tsx",
+              "RelativeToolTip": "src\\pages\\auth\\password-change-required\\index.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:32:10.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\login\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\auth\\login\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\login\\index.tsx",
+              "RelativeToolTip": "src\\pages\\auth\\login\\index.tsx",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:26:13.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\forgotPassword\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\auth\\forgotPassword\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\forgotPassword\\index.tsx",
+              "RelativeToolTip": "src\\pages\\auth\\forgotPassword\\index.tsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:24:40.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\forgotPassword\\reset\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\auth\\forgotPassword\\reset\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\forgotPassword\\reset\\index.tsx",
+              "RelativeToolTip": "src\\pages\\auth\\forgotPassword\\reset\\index.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:19:33.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\settings\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\admin\\settings\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\settings\\index.tsx",
+              "RelativeToolTip": "src\\pages\\admin\\settings\\index.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:27:06.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\organization\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\admin\\organization\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\organization\\index.tsx",
+              "RelativeToolTip": "src\\pages\\admin\\organization\\index.tsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:47:22.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\notification\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\admin\\notification\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\notification\\index.tsx",
+              "RelativeToolTip": "src\\pages\\admin\\notification\\index.tsx",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:46:55.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\mail\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\admin\\mail\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\mail\\index.tsx",
+              "RelativeToolTip": "src\\pages\\admin\\mail\\index.tsx",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIcBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:24:18.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\controller\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\admin\\controller\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\controller\\index.tsx",
+              "RelativeToolTip": "src\\pages\\admin\\controller\\index.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:37:23.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\mfaRecovery\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\auth\\mfaRecovery\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\mfaRecovery\\index.tsx",
+              "RelativeToolTip": "src\\pages\\auth\\mfaRecovery\\index.tsx",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:31:02.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\mfaRecovery\\reset\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\auth\\mfaRecovery\\reset\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\auth\\mfaRecovery\\reset\\index.tsx",
+              "RelativeToolTip": "src\\pages\\auth\\mfaRecovery\\reset\\index.tsx",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAALMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:29:04.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "updateMember.test.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\networkMembers\\updateMember.test.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\__tests__\\v1\\networkMembers\\updateMember.test.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\networkMembers\\updateMember.test.ts",
+              "RelativeToolTip": "src\\pages\\api\\__tests__\\v1\\networkMembers\\updateMember.test.ts",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:18:05.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "networkById.test.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\network\\networkById.test.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\__tests__\\v1\\network\\networkById.test.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\network\\networkById.test.ts",
+              "RelativeToolTip": "src\\pages\\api\\__tests__\\v1\\network\\networkById.test.ts",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:17:12.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\admin\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\admin\\index.tsx",
+              "RelativeToolTip": "src\\pages\\admin\\index.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:48:07.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "network.test.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\network\\network.test.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\__tests__\\v1\\network\\network.test.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\network\\network.test.ts",
+              "RelativeToolTip": "src\\pages\\api\\__tests__\\v1\\network\\network.test.ts",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:17:02.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "statistic.test.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\application\\statistic.test.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\__tests__\\v1\\application\\statistic.test.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\v1\\application\\statistic.test.ts",
+              "RelativeToolTip": "src\\pages\\api\\__tests__\\v1\\application\\statistic.test.ts",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:16:50.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "setup.test.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\auth\\two-factor\\setup.test.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\api\\__tests__\\auth\\two-factor\\setup.test.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\auth\\two-factor\\setup.test.tsx",
+              "RelativeToolTip": "src\\pages\\api\\__tests__\\auth\\two-factor\\setup.test.tsx",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:16:10.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "enable.test.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\auth\\two-factor\\enable.test.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\api\\__tests__\\auth\\two-factor\\enable.test.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\__tests__\\auth\\two-factor\\enable.test.tsx",
+              "RelativeToolTip": "src\\pages\\api\\__tests__\\auth\\two-factor\\enable.test.tsx",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:15:33.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\websocket\\index.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\websocket\\index.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\websocket\\index.ts",
+              "RelativeToolTip": "src\\pages\\api\\websocket\\index.ts",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:15:17.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "[id].tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\central\\[id].tsx",
+              "RelativeDocumentMoniker": "src\\pages\\central\\[id].tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\central\\[id].tsx",
+              "RelativeToolTip": "src\\pages\\central\\[id].tsx",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAAAA4BAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T07:01:19.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\central\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\central\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\central\\index.tsx",
+              "RelativeToolTip": "src\\pages\\central\\index.tsx",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAACEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:55:27.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\stats\\index.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\v1\\stats\\index.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\stats\\index.ts",
+              "RelativeToolTip": "src\\pages\\api\\v1\\stats\\index.ts",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:55:09.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\org\\index.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\v1\\org\\index.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\org\\index.ts",
+              "RelativeToolTip": "src\\pages\\api\\v1\\org\\index.ts",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:54:57.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_schema.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\network\\_schema.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\v1\\network\\_schema.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\network\\_schema.ts",
+              "RelativeToolTip": "src\\pages\\api\\v1\\network\\_schema.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:54:47.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\network\\index.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\v1\\network\\index.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\v1\\network\\index.ts",
+              "RelativeToolTip": "src\\pages\\api\\v1\\network\\index.ts",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:54:14.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "[trpc].ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\trpc\\[trpc].ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\trpc\\[trpc].ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\trpc\\[trpc].ts",
+              "RelativeToolTip": "src\\pages\\api\\trpc\\[trpc].ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:53:32.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "config.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\mkworld\\config.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\mkworld\\config.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\mkworld\\config.ts",
+              "RelativeToolTip": "src\\pages\\api\\mkworld\\config.ts",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:52:51.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "setup.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\two-factor\\totp\\setup.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\auth\\two-factor\\totp\\setup.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\two-factor\\totp\\setup.ts",
+              "RelativeToolTip": "src\\pages\\api\\auth\\two-factor\\totp\\setup.ts",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:51:11.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\dashboard\\index.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\dashboard\\index.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\dashboard\\index.tsx",
+              "RelativeToolTip": "src\\pages\\dashboard\\index.tsx",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:48:30.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "[...nextauth].ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\[...nextauth].ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\auth\\[...nextauth].ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\[...nextauth].ts",
+              "RelativeToolTip": "src\\pages\\api\\auth\\[...nextauth].ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:52:41.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "enable.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\two-factor\\totp\\enable.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\auth\\two-factor\\totp\\enable.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\two-factor\\totp\\enable.ts",
+              "RelativeToolTip": "src\\pages\\api\\auth\\two-factor\\totp\\enable.ts",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:50:47.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "disable.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\two-factor\\totp\\disable.ts",
+              "RelativeDocumentMoniker": "src\\pages\\api\\auth\\two-factor\\totp\\disable.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\pages\\api\\auth\\two-factor\\totp\\disable.ts",
+              "RelativeToolTip": "src\\pages\\api\\auth\\two-factor\\totp\\disable.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:50:15.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "logFooter.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\logFooter.tsx",
+              "RelativeDocumentMoniker": "src\\components\\layouts\\logFooter.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\logFooter.tsx",
+              "RelativeToolTip": "src\\components\\layouts\\logFooter.tsx",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:23:27.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "mailNotificationTemplate.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailNotificationTemplate.tsx",
+              "RelativeDocumentMoniker": "src\\components\\adminPage\\mail\\mailNotificationTemplate.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailNotificationTemplate.tsx",
+              "RelativeToolTip": "src\\components\\adminPage\\mail\\mailNotificationTemplate.tsx",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:15:34.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "mailUserInviteTemplate.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailUserInviteTemplate.tsx",
+              "RelativeDocumentMoniker": "src\\components\\adminPage\\mail\\mailUserInviteTemplate.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailUserInviteTemplate.tsx",
+              "RelativeToolTip": "src\\components\\adminPage\\mail\\mailUserInviteTemplate.tsx",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:11:17.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\layout.tsx",
+              "RelativeDocumentMoniker": "src\\components\\layouts\\layout.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\layout.tsx",
+              "RelativeToolTip": "src\\components\\layouts\\layout.tsx",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T06:10:28.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "header.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\header.tsx",
+              "RelativeDocumentMoniker": "src\\components\\layouts\\header.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\header.tsx",
+              "RelativeToolTip": "src\\components\\layouts\\header.tsx",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:59:44.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "mailForgotPasswordTemplate.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailForgotPasswordTemplate.tsx",
+              "RelativeDocumentMoniker": "src\\components\\adminPage\\mail\\mailForgotPasswordTemplate.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailForgotPasswordTemplate.tsx",
+              "RelativeToolTip": "src\\components\\adminPage\\mail\\mailForgotPasswordTemplate.tsx",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:57:47.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "mailDeviceIpChangeNotificationTemplate.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailDeviceIpChangeNotificationTemplate.tsx",
+              "RelativeDocumentMoniker": "src\\components\\adminPage\\mail\\mailDeviceIpChangeNotificationTemplate.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\mail\\mailDeviceIpChangeNotificationTemplate.tsx",
+              "RelativeToolTip": "src\\components\\adminPage\\mail\\mailDeviceIpChangeNotificationTemplate.tsx",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:55:27.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "rootForm.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\controller\\rootForm.tsx",
+              "RelativeDocumentMoniker": "src\\components\\adminPage\\controller\\rootForm.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\controller\\rootForm.tsx",
+              "RelativeToolTip": "src\\components\\adminPage\\controller\\rootForm.tsx",
+              "ViewState": "AgIAADIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:51:31.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "chatAside.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\chatAside.tsx",
+              "RelativeDocumentMoniker": "src\\components\\layouts\\chatAside.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\chatAside.tsx",
+              "RelativeToolTip": "src\\components\\layouts\\chatAside.tsx",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:19:43.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "mfaRecoveryForm.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\mfaRecoveryForm.tsx",
+              "RelativeDocumentMoniker": "src\\components\\auth\\mfaRecoveryForm.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\mfaRecoveryForm.tsx",
+              "RelativeToolTip": "src\\components\\auth\\mfaRecoveryForm.tsx",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:39:53.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "formSubmitButton.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\formSubmitButton.tsx",
+              "RelativeDocumentMoniker": "src\\components\\auth\\formSubmitButton.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\formSubmitButton.tsx",
+              "RelativeToolTip": "src\\components\\auth\\formSubmitButton.tsx",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:39:40.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "footer.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\footer.tsx",
+              "RelativeDocumentMoniker": "src\\components\\layouts\\footer.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\layouts\\footer.tsx",
+              "RelativeToolTip": "src\\components\\layouts\\footer.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:13:20.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "formInput.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\formInput.tsx",
+              "RelativeDocumentMoniker": "src\\components\\auth\\formInput.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\formInput.tsx",
+              "RelativeToolTip": "src\\components\\auth\\formInput.tsx",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:39:20.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "createPlanet.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\controller\\createPlanet.tsx",
+              "RelativeDocumentMoniker": "src\\components\\adminPage\\controller\\createPlanet.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\controller\\createPlanet.tsx",
+              "RelativeToolTip": "src\\components\\adminPage\\controller\\createPlanet.tsx",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:36:00.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "debugController.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\controller\\debugController.tsx",
+              "RelativeDocumentMoniker": "src\\components\\adminPage\\controller\\debugController.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\adminPage\\controller\\debugController.tsx",
+              "RelativeToolTip": "src\\components\\adminPage\\controller\\debugController.tsx",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:36:52.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "forgotPasswordForm.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\forgotPasswordForm.tsx",
+              "RelativeDocumentMoniker": "src\\components\\auth\\forgotPasswordForm.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\forgotPasswordForm.tsx",
+              "RelativeToolTip": "src\\components\\auth\\forgotPasswordForm.tsx",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:38:35.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "credentialsForm.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\credentialsForm.tsx",
+              "RelativeDocumentMoniker": "src\\components\\auth\\credentialsForm.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\credentialsForm.tsx",
+              "RelativeToolTip": "src\\components\\auth\\credentialsForm.tsx",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:37:12.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "oauthLogin.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\oauthLogin.tsx",
+              "RelativeDocumentMoniker": "src\\components\\auth\\oauthLogin.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\auth\\oauthLogin.tsx",
+              "RelativeToolTip": "src\\components\\auth\\oauthLogin.tsx",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:11:53.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "apiToken.tsx",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\userSettings\\apiToken.tsx",
+              "RelativeDocumentMoniker": "src\\components\\userSettings\\apiToken.tsx",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\src\\components\\userSettings\\apiToken.tsx",
+              "RelativeToolTip": "src\\components\\userSettings\\apiToken.tsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:21:04.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "setup-ssh.sh",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\.devcontainer\\setup-ssh.sh",
+              "RelativeDocumentMoniker": ".devcontainer\\setup-ssh.sh",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\.devcontainer\\setup-ssh.sh",
+              "RelativeToolTip": ".devcontainer\\setup-ssh.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-24T05:08:40.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "seed.ts",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\prisma\\seed.ts",
+              "RelativeDocumentMoniker": "prisma\\seed.ts",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\prisma\\seed.ts",
+              "RelativeToolTip": "prisma\\seed.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-24T05:08:23.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "tailwind.config.cjs",
+              "DocumentMoniker": "C:\\Users\\sid27\\source\\repos\\ztnet\\tailwind.config.cjs",
+              "RelativeDocumentMoniker": "tailwind.config.cjs",
+              "ToolTip": "C:\\Users\\sid27\\source\\repos\\ztnet\\tailwind.config.cjs",
+              "RelativeToolTip": "tailwind.config.cjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-24T05:07:29.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

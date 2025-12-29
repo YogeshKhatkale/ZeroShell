@@ -1,0 +1,156 @@
+NetworkMemberResponse:
+  type: object
+  properties:
+    nodeid:
+      type: integer
+      description: Node identifier
+    id:
+      type: string
+      description: Unique user identifier
+    nwid:
+      type: string
+      description: Network identifier
+    lastSeen:
+      type: string
+      format: date-time
+      description: Timestamp of last seen
+    online:
+      type: boolean
+      description: Online status
+    deleted:
+      type: boolean
+      description: Deleted status
+    name:
+      type: string
+      description: Name of the user
+    address:
+      type: string
+      description: Address of the user
+    creationTime:
+      type: integer
+      description: User creation time in milliseconds since epoch
+    activeBridge:
+      type: boolean
+      description: Active bridge status
+    authenticationExpiryTime:
+      type: integer
+      description: Authentication expiry time
+    authorized:
+      type: boolean
+      description: Authorization status
+    capabilities:
+      type: array
+      items:
+        type: string
+      description: List of capabilities
+    identity:
+      type: string
+      description: User identity information
+    ipAssignments:
+      type: array
+      items:
+        type: string
+      description: IP assignments
+    lastAuthorizedCredential:
+      type: string
+      nullable: true
+      description: Last authorized credential
+    lastAuthorizedCredentialType:
+      type: string
+      description: Type of the last authorized credential
+    lastAuthorizedTime:
+      type: integer
+      description: Timestamp of the last authorized time
+    lastDeauthorizedTime:
+      type: integer
+      description: Timestamp of the last deauthorized time
+    noAutoAssignIps:
+      type: boolean
+      description: No auto-assign IPs status
+    objtype:
+      type: string
+      description: Object type
+    remoteTraceLevel:
+      type: integer
+      description: Remote trace level
+    remoteTraceTarget:
+      type: string
+      nullable: true
+      description: Remote trace target
+    revision:
+      type: integer
+      description: Revision number
+    ssoExempt:
+      type: boolean
+      description: SSO exempt status
+    tags:
+      type: array
+      items:
+        type: string
+      description: Tags associated with the user
+    vMajor:
+      type: integer
+      description: Major version number
+    vMinor:
+      type: integer
+      description: Minor version number
+    vProto:
+      type: integer
+      description: Protocol version number
+    vRev:
+      type: integer
+      description: Revision version number
+    physicalAddress:
+      type: string
+      description: External ip address of the user
+    peers:
+      type: array
+      items:
+        type: object
+        properties:
+          address:
+            type: string
+            description: Address of the peer
+          isBonded:
+            type: boolean
+            description: Bonded status
+          latency:
+            type: integer
+            description: Latency
+          paths:
+            type: array
+            items:
+              type: string
+            description: List of paths
+          role:
+            type: string
+            description: Role of the peer
+          tunneled:
+            type: boolean
+            description: Tunneled status
+          version:
+            type: string
+            description: Version of the peer
+          versionMajor:
+            type: integer
+            description: Major version of the peer
+          versionMinor:
+            type: integer
+            description: Minor version of the peer
+          versionRev:
+            type: integer
+            description: Revision version of the peer
+      description: List of peers
+    conStatus:
+      type: integer
+      description: |
+        Connection status
+        Possible values:
+        * 0 - Offline: The connection is not established
+        * 1 - Relayed or DirectLAN: The connection is either relayed or direct within a LAN
+        * 2 - DirectWAN: The connection is direct over WAN
+      enum:
+        - 0
+        - 1
+        - 2
+      

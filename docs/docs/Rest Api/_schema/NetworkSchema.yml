@@ -1,0 +1,167 @@
+NetworkResponse:
+  type: object
+  properties:
+    authorId:
+      type: string
+    description:
+      type: string
+    authTokens:
+      type: array
+      items:
+        type: string
+        nullable: true
+    authorizationEndpoint:
+      type: string
+    capabilities:
+      type: array
+      items:
+        type: string
+    clientId:
+      type: string
+    creationTime:
+      type: integer
+    dns:
+      type: object
+      properties:
+        domain:
+          type: string
+        servers:
+          type: array
+          items:
+            type: string
+    enableBroadcast:
+      type: boolean
+    id:
+      type: string
+    ipAssignmentPools:
+      type: array
+      items:
+        type: object
+        properties:
+          ipRangeStart:
+            type: string
+          ipRangeEnd:
+            type: string
+    mtu:
+      type: integer
+    multicastLimit:
+      type: integer
+    memberCount:
+      type: integer
+      description: Total number of members in the network
+    name:
+      type: string
+    nwid:
+      type: string
+    objtype:
+      type: string
+    private:
+      type: boolean
+    remoteTraceLevel:
+      type: integer
+    remoteTraceTarget:
+      type: string
+    revision:
+      type: integer
+    routes:
+      type: array
+      items:
+        type: object
+        properties:
+          target:
+            type: string
+          via:
+            type: string
+            nullable: true
+    rules:
+      type: array
+      items:
+        type: object
+        properties:
+          not:
+            type: boolean
+          or:
+            type: boolean
+          type:
+            type: string
+    rulesSource:
+      type: string
+    ssoEnabled:
+      type: boolean
+    tags:
+      type: array
+      items:
+        type: string
+    v4AssignMode:
+      type: object
+      properties:
+        zt:
+          type: boolean
+    v6AssignMode:
+      type: object
+      properties:
+        6plane:
+          type: boolean
+        rfc4193:
+          type: boolean
+        zt:
+          type: boolean
+
+UpdateNetworkShema:
+  type: object
+  properties:
+    name:
+      type: string
+    description:
+      type: string
+    mtu:
+      type: integer
+      default: 2800
+    dns:
+      type: object
+      properties:
+        domain:
+          type: string
+        servers:
+          type: array
+          items:
+            type: string
+          
+    ipAssignmentPools:
+      type: array
+      items:
+        type: object
+        properties:
+          ipRangeStart:
+            type: string
+          ipRangeEnd:
+            type: string
+    private:
+      type: boolean
+    routes:
+      type: array
+      items:
+        type: object
+        properties:
+          target:
+            type: string
+          via:
+            type: string
+            nullable: true
+    flowRules:
+      type: string
+      default: "drop not ethertype ipv4 and not ethertype arp and not ethertype ipv6; accept;"
+    v4AssignMode:
+      type: object
+      properties:
+        zt:
+          type: boolean
+    v6AssignMode:
+      type: object
+      properties:
+        6plane:
+          type: boolean
+        rfc4193:
+          type: boolean
+        zt:
+          type: boolean

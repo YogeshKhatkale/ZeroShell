@@ -1,0 +1,74 @@
+openapi: 3.0.3
+info:
+  title: ZTNet Organization Rest API
+  version: 1.0.0
+  description: |
+    Access the ZTNet Organization suite through our RESTful Web API. 
+    
+    This interface is subject to a rate limit of 50 requests per minute to ensure service reliability.
+
+servers:
+  - url: https://ztnet.network/api/v1
+    description: ZTNet API
+        
+components:
+  securitySchemes:
+    x-ztnet-auth:
+      type: apiKey
+      in: header
+      name: x-ztnet-auth
+      description: API key required for access
+
+security:
+  - x-ztnet-auth: []
+
+paths:
+  /org:
+    get:
+      summary: Returns a list of Organizations you have access to.
+      description: |
+        Returns an array of Organizations you have access to.
+      operationId: getOrganization
+      responses:
+        200:
+          description: An array of Network IDs
+          content:
+            application/json:
+              schema:
+                $ref: '../../_schema/OrganizationSchema.yml#/OrganizationResponse'
+              example:
+                $ref: '../../_example/OrganizationExample.yml#/OrganizationExample'
+        401:
+          $ref: '../../_http_responses/Unauthorized.yml#/Unauthorized'
+        429:
+          $ref: '../../_http_responses/RateLimitExceeded.yml#/RateLimitExceeded'
+        500:
+          $ref: '../../_http_responses/InternalServerError.yml#/InternalServerError'
+
+  /org/{orgId}:
+    get:
+      summary: Returns information of the specified Organization.
+      operationId: getOrganizationInfo
+      parameters:
+        - name: orgid
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Unique identifier of the organization
+      responses:
+        200:
+          description: Detailed information of the specified Organization
+          content:
+            application/json:
+              schema:
+                $ref: '../../_schema/OrganizationSchema.yml#/OrganizationById'
+              example:
+                $ref: '../../_example/OrganizationExample.yml#/OrganizationByIdExample'
+        401:
+          $ref: '../../_http_responses/Unauthorized.yml#/Unauthorized'
+        429:
+          $ref: '../../_http_responses/RateLimitExceeded.yml#/RateLimitExceeded'
+        500:
+          $ref: '../../_http_responses/InternalServerError.yml#/InternalServerError'
+              

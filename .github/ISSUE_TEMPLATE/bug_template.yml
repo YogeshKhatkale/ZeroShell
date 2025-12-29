@@ -1,0 +1,67 @@
+name: Bug Report
+description: Report a bug encountered while using ZTNET
+title: "[Bug]: "
+labels: ["bug"]
+
+body:
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: "🐛 Describe the Bug"
+      description: "A clear and concise description of what the bug is."
+    validations:
+      required: true
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: "🔍 Steps to Reproduce"
+      description: "Steps to reproduce the behavior."
+    validations:
+      required: true
+  - type: dropdown
+    id: browser
+    attributes:
+      label: "🌐 Browser"
+      description: "Which browser are you using?"
+      options:
+        - Chrome
+        - Firefox
+        - Brave
+        - Safari
+        - Edge
+        - Opera
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: deployment-type
+    attributes:
+      label: "🔧 Deployment Type"
+      description: "Select the type of ZTNET deployment you are using."
+      options:
+        - label: Docker
+        - label: Standalone
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: "✨ Expected Behavior"
+      description: "A clear and concise description of what you expected to happen."
+    validations:
+      required: false
+  - type: textarea
+    id: docker-logs
+    attributes:
+      label: "📋 ZTNET Logs"
+      description: "Run `docker logs ztnet` for Docker or `journalctl -u ztnet` if you are using standalone version. Copy and paste the relative output here. This will be automatically formatted into code, so no need for backticks."
+      render: shell
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "🖼 Screenshots"
+      description: "If applicable, add screenshots to help explain your problem."
+    validations:
+      required: false
