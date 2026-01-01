@@ -19,22 +19,22 @@ export const WelcomeMessage = () => {
 									<h1 className="mb-2 text-5xl font-bold">
 										<div className="flex items-center space-x-5">
 											<img
-												style={{ width: 50, height: 50 }}
+												style={{ width: 60, height: 60 }}
 												alt="ztnet logo"
 												title="ztnet logo"
-												src="/images/ztnet_200x178.png"
+												src="/favicon.png"
 											/>
-											<span className="zt-color">ZTNET</span>
+											<span className="zt-color">ZeroShell SDN</span>
 										</div>
 									</h1>
-									<Link
-										href="https://ztnet.network/"
+									{/* <Link
+										href="https://zeroshell.in/"
 										rel="noopener noreferrer"
 										className="text-sm text-primary/50"
 										target="_blank"
 									>
-										https://ztnet.network
-									</Link>
+										https://zeroshell.in
+									</Link> */}
 								</div>
 							)}
 						</div>

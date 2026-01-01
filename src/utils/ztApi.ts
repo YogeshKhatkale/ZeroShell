@@ -743,6 +743,7 @@ export const peer = async (ctx: UserContext, userZtAddress: string) => {
 	} catch (_error) {
 		return [];
 	}
+
 };
 
 // Get controller metrics
@@ -762,4 +763,5 @@ export const get_controller_metrics = async ({ ctx }: Ictx) => {
 		const message = "An error occurred while getting controller metrics";
 		throw new APIError(message, error as AxiosError);
 	}
+
 };

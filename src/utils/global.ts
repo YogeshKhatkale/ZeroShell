@@ -2,4 +2,4 @@
 
 import { env } from "~/env.mjs";
 
-export const globalSiteVersion = env.NEXT_PUBLIC_APP_VERSION || "development";
+export const globalSiteVersion = env.NEXT_PUBLIC_APP_VERSION || "Production";

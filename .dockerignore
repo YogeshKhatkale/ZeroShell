@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .env
 Dockerfile
 .dockerignore
@@ -6,4 +7,14 @@ npm-debug.log
 README.md
 .next
 .git
+=======
+.env
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+README.md
+.next
+.git
+>>>>>>> 5b2252b05e94b3f15f5d9e19cbdd5f9b271da4bd
 prisma.config.ts

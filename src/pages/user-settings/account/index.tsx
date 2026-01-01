@@ -242,9 +242,9 @@ const Account = () => {
 					<Link
 						className="link"
 						target="_blank"
-						href="https://ztnet.network/category/rest-api"
+						href="https://zeroshell.in/category/rest-api"
 					>
-						https://ztnet.network/category/rest-api
+						https://zeroshell.in/category/rest-api
 					</Link>
 				</p>
 				<div className="space-y-5">
@@ -261,7 +261,7 @@ const Account = () => {
 					})}
 				</p>
 				<InputField
-					label="Zerotier Central API Key"
+					label="ZeroShell Central API Key"
 					placeholder="******"
 					size="sm"
 					rootFormClassName="space-y-3 pt-2 w-6/6 sm:w-3/6"
@@ -302,7 +302,7 @@ const Account = () => {
 							name: "ztCentralApiUrl",
 							type: "text",
 							placeholder:
-								me?.options?.ztCentralApiUrl || "https://api.zerotier.com/api/v1",
+								me?.options?.ztCentralApiUrl || "https://api.zeroshell.in/api/v1",
 							value: me?.options?.ztCentralApiUrl,
 						},
 					]}
@@ -355,13 +355,18 @@ const Account = () => {
 			>
 				<div className="flex items-center justify-between">
 					<p>{t("userSettings.account.application.version")}</p>
+				
 					<a
 						className="link text-primary"
-						href="https://github.com/sinamics/ztnet/releases"
+						href="https://example.com"
+						
 					>
 						{globalSiteVersion ?? t("userSettings.account.application.developerMode")}
 					</a>
+					
 				</div>
+				<br/>
+					<p>[$Need to change git link.and delete this paragraph]</p> 
 			</MenuSectionDividerWrapper>
 		</main>
 	);

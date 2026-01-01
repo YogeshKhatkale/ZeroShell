@@ -102,7 +102,7 @@ const Settings = () => {
 						size="sm"
 						placeholder={
 							options?.welcomeMessageBody ||
-							"ZeroShell VPN is your key to boundless connectivity and ultimate privacy.Experience a secure and borderless digital world, free from limitations. Empower yourself with unmatched performance, while safeguarding your data."
+							"ZeroShell SDN is your key to boundless connectivity and ultimate privacy.Experience a secure and borderless digital world, free from limitations. Empower yourself with unmatched performance, while safeguarding your data."
 						}
 						fields={[
 							{

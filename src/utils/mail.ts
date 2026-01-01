@@ -8,32 +8,32 @@ import { MailTemplateKey } from "./enums";
 
 export const inviteOrganizationTemplate = () => {
 	return {
-		subject: "Invitation to join ZTNET Organization <%= fromOrganization %>",
+		subject: "Invitation to join ZSSDN Organization <%= fromOrganization %>",
 		body:
 			"Hello <%= toEmail %>,<br /><br />" +
-			"You have been invited by <%= fromAdmin %> to join our ZTNET organization, '<%= fromOrganization %>'. We are excited to potentially have you on board and look forward to collaborating with you.<br /><br />" +
+			"You have been invited by <%= fromAdmin %> to join our ZSSDN organization, '<%= fromOrganization %>'. We are excited to potentially have you on board and look forward to collaborating with you.<br /><br />" +
 			"To complete your invitation process, kindly use the link below. Please note, the link will expire after 24 hours.<br />" +
 			"<a href='<%= invitationLink %>' style='color: blue; text-decoration: underline;'><%= invitationLink %></a><br /><br />" +
 			"If you are not familiar with '<%= fromAdmin %>' or '<%= fromOrganization %>', please disregard this message for your security.<br /><br />" +
 			"Warm regards,<br />" +
 			"<%= fromOrganization %><br />" +
-			"ZTNET Team",
+			"ZSSDN Team",
 	};
 };
 
 export const inviteUserTemplate = () => {
 	return {
-		subject: "ZTNET -- Invitation to join network: <%= nwid %>",
+		subject: "ZSSDN -- Invitation to join network: <%= nwid %>",
 		body:
 			"Hi <b><%= toEmail %></b>,<br />" +
-			"<%= fromName %> wants you to join the ztnet network: <%= nwid %>.<br />" +
+			"<%= fromName %> wants you to join the zssdn network: <%= nwid %>.<br />" +
 			"If you do not know <%= fromName %>, please ignore this message!<br /><br />" +
-			"Use the ZeroTier One GUI or command line on your device to join the network: <%= nwid %>.<br />" +
-			"For Example:<br />zerotier-cli join <%= nwid %><br /><br />" +
+			"Use the ZeroShell SDN GUI or command line on your device to join the network: <%= nwid %>.<br />" +
+			"For Example:<br />zeroshell-cli join <%= nwid %><br /><br />" +
 			"Make sure to let <%= fromName %> know your device ID so that they can authorize it.<br /><br />" +
 			"For detailed instructions and download links, visit:<br />" +
-			"<a href='https://www.zerotier.com/download' style='color: blue; text-decoration: underline;'>https://www.zerotier.com/download</a><br /><br />" +
-			"Sincerely,<br />--<br />ZTNET",
+			"<a href='https://www.zeroshell.in/download' style='color: blue; text-decoration: underline;'>https://www.zeroshell.in/download</a><br /><br />" +
+			"Sincerely,<br />--<br />ZSSDN",
 	};
 };
 
@@ -46,7 +46,7 @@ export const forgotPasswordTemplate = () => {
 			"Click here to create a new password: <br /><%= forgotLink %><br /><br />" +
 			"Please note, this link is valid for 15 minutes. If it expires, you will need to request a new one. <br />" +
 			"If you did not request a password reset, please ignore this message. <br /><br />" +
-			"Sincerely,<br />--<br />ZTNET",
+			"Sincerely,<br />--<br />ZSSDN",
 	};
 };
 
@@ -55,32 +55,32 @@ export const verifyEmailTemplate = () => {
 		subject: "Verify Your Email Address",
 		body:
 			"Hi <b><%= toName %></b>,<br /><br />" +
-			"Welcome to ZTNET! <br /><br />" +
+			"Welcome to ZSSDN! <br /><br />" +
 			"Please verify your email address by clicking the link below: <br /><%= verifyLink %><br /><br />" +
 			"Please note, this link is valid for 15 minutes. If it expires, you will need to request a new one. <br />" +
 			"If you did not create an account, please ignore this message. <br /><br />" +
-			"Sincerely,<br />--<br />ZTNET",
+			"Sincerely,<br />--<br />ZSSDN",
 	};
 };
 
 export const notificationTemplate = () => {
 	return {
-		subject: "New Notification from ZTNET",
+		subject: "New Notification from ZSSDN",
 		body:
 			"Hi <b><%= toName %></b>,<br /><br />" +
-			"You have a new notification from ZTNET. <br /><br />" +
+			"You have a new notification from ZSSDN. <br /><br />" +
 			"<%= notificationMessage %><br /><br />" +
 			"If this notification does not concern you, please ignore this message. <br /><br />" +
-			"Sincerely,<br />--<br />ZTNET",
+			"Sincerely,<br />--<br />ZSSDN",
 	};
 };
 
 export const deviceIpChangeNotificationTemplate = () => {
 	return {
-		subject: "ZTNET: Your account has been accessed from a new IP Address",
+		subject: "ZSSDN: Your account has been accessed from a new IP Address",
 		body:
 			"Hello,<br /><br />" +
-			"Your security is very important to us. Your ZTNET account was accessed from a new IP address:" +
+			"Your security is very important to us. Your ZSSDN account was accessed from a new IP address:" +
 			"<br /><br />" +
 			"------------------------------------------<br />" +
 			"email: <%= toEmail %><br />" +
@@ -90,16 +90,16 @@ export const deviceIpChangeNotificationTemplate = () => {
 			"------------------------------------------<br />" +
 			"<br /><br />" +
 			"If this was you, you can ignore this alert. If you noticed any suspicious activity on your account, please change your password and enable two-factor authentication on your account page at <%= accountPageUrl %>.<br /><br />" +
-			"Sincerely,<br />--<br />ZTNET",
+			"Sincerely,<br />--<br />ZSSDN",
 	};
 };
 
 export const newDeviceNotificationTemplate = () => {
 	return {
-		subject: "ZTNET: New Device Detected",
+		subject: "ZSSDN: New Device Detected",
 		body:
 			"Hello,<br /><br />" +
-			"A new device has been associated with your ZTNET account. <br /><br />" +
+			"A new device has been associated with your ZSSDN account. <br /><br />" +
 			"------------------------------------------<br />" +
 			"time: <%= accessTime %> UTC<br />" +
 			"IP address: <%= ipAddress %><br />" +
@@ -107,7 +107,7 @@ export const newDeviceNotificationTemplate = () => {
 			"------------------------------------------<br />" +
 			"<br /><br />" +
 			"If this was you, you can ignore this alert. If you noticed any suspicious activity on your account, please change your password and enable two-factor authentication on your account page at <%= accountPageUrl %>.<br /><br />" +
-			"Sincerely,<br />--<br />ZTNET",
+			"Sincerely,<br />--<br />ZSSDN",
 	};
 };
 

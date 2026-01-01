@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: On pull request
 
 on:
@@ -39,3 +40,46 @@ jobs:
 
       - name: Build
         run: npm run build
+=======
+name: On pull request
+
+on:
+  pull_request:
+    paths-ignore:
+      - "docs/**"
+
+jobs:
+  web_lint_test_build:
+    name: Web - Lint - Format - Test - Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+      - uses: actions/setup-node@master
+        with:
+          node-version: 22.x
+      # write local env file .env with secrets
+      # add dummy keys to get the required markers for next-auth and postgres
+      - name: Write local env file
+        run: |
+          echo "DATABASE_URL=postgresql://postgres:postgres@localhost:5432/postgres?schema=public" >> .env
+          echo "NEXTAUTH_SECRET=dummy_key" >> .env
+          echo "NEXTAUTH_URL=http://localhost:3000" >> .env
+          echo "NEXT_PUBLIC_APP_VERSION=" >> .env
+          echo "IS_GITHUB_ACTION=true" >> .env
+
+      - run: npm install
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Formatter
+        run: npm run format
+        
+      - name: Test
+        run: npm run test
+
+      - name: Build
+        run: npm run build
+>>>>>>> 5b2252b05e94b3f15f5d9e19cbdd5f9b271da4bd

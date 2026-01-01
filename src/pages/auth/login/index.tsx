@@ -96,7 +96,7 @@ const Login = ({ oauthExclusiveLogin, oauthEnabled }) => {
 					) : null}
 
 					<div className="pt-5 text-center text-xs text-gray-400">
-						<span>Copyright @ {currentYear} Silicon Care</span>
+						<span>Copyright @ Silicon Care {currentYear}</span>
 					</div>
 				</div>
 			</div>
